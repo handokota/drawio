@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-12T15:00:44.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lxyEhV16_PJ1EjhcIfCN" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-12T15:02:37.392Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PlJFddZA1_SQYmSEovLT" version="17.1.1" type="github">
   <diagram id="IJFSq94s2dqCEI1j96If" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="tN-cyv2VOZNh-2Z_2cxq-34" value="Membeli" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="570" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tN-cyv2VOZNh-2Z_2cxq-39" value="Nama: Handoko Tejo Atmoko&lt;br&gt;NIM: 1303200029" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="280" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
