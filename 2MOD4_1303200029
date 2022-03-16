@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T03:28:41.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.1.2" etag="kWDrfDHXLkvZ_gbEsKmL" type="github"><diagram id="6S_h66Jkq_Mx2Nu-6TMs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T03:36:10.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="hOz4DhL-XkW5R5XNe4dY" version="17.1.2" type="github">
+  <diagram id="6S_h66Jkq_Mx2Nu-6TMs" name="Page-1">
+    <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fhdwBxXXuzC5NAbCtHPZ-1" target="fhdwBxXXuzC5NAbCtHPZ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-1" value="Pengguna" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-2" value="Nama" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-1">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-3" value="Tanggal_Lahir" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-1">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-4" value="Gender" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-1">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-6" value="Nama: Handoko Tejo Atmoko&lt;br&gt;NIM: 1303200029" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-7" value="Member_1303200029" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="160" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-8" value="Tanggal_RegisMember" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-7">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-9" value="Durasi_Member" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-7">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-10" value="Gender" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-7">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-11" value="NonMember_1303200029" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="160" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-12" value="Tanggal_Mendaftar" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-11">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fhdwBxXXuzC5NAbCtHPZ-16" target="fhdwBxXXuzC5NAbCtHPZ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="fhdwBxXXuzC5NAbCtHPZ-16" target="fhdwBxXXuzC5NAbCtHPZ-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-16" value="ISA" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="320" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-21" value="Produk" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="120" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-22" value="No_Produk" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-21">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-23" value="Nama_Produk" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-21">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-24" value="Stok&#xa;&#xa;Harga" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="fhdwBxXXuzC5NAbCtHPZ-21">
+          <mxGeometry y="86" width="160" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="fhdwBxXXuzC5NAbCtHPZ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="fhdwBxXXuzC5NAbCtHPZ-3" target="fhdwBxXXuzC5NAbCtHPZ-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
